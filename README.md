@@ -1,6 +1,3 @@
-# sales-analysis
-
-
 ABC Company Sales Data Analysis
 Overview
 This repository contains the code and datasets for analyzing the sales data of ABC Company over the last three years (2017-2019). The goal of this analysis is to provide insights into sales performance, product trends, manager performance, customer coverage, and target analysis.
@@ -29,7 +26,7 @@ Visualization of sales trends over time.
 Analysis of sales for different products and product groups.
 Assessment of manager-wise sales performance.
 Examination of customer coverage across various locations.
-Comparison of actual sales with target sales.    
+Comparison of actual sales with target sales.
 
 Code Structure
 Sales_Analysis.ipynb: Jupyter Notebook containing the Python code for data analysis.
@@ -49,11 +46,9 @@ Pandas
 Matplotlib
 Seaborn
 NumPy
-Jupyter Notebook 
-
+Jupyter Notebook
 
 Detailed Insights
-
 
 Duane Frame's Team
 Encompasses a diverse team comprising both distributor and online sales, implying a broad market approach.
@@ -63,7 +58,6 @@ Managerial roster: Dominantly status A (55%).
 Managerial domain: Predominantly food-related sectors (56%) with minor representation in drinks (1.9%).
 Sales achievement: Impressive 74% attainment of the target sales.
 
-
 Ronnie Daly's Team
 Focuses primarily on the retail sector.
 Sales team members: Sahil, Seymour, Gillian, Serenity, Hywell, and Ayaana.
@@ -72,12 +66,10 @@ Managerial roster: Slightly lower percentage within status A (40%).
 Operational emphases: Significant presence in sectors like B&Bs, distributors, and supermarkets.
 Sales achievement: Achieves 60% of the target.
 
-
 City Analysis
 Top cities in the distributors Lv2 category: Yoman, Roslyn, and Badger.
-Potential hubs for distribution centers or strong consumer demand clusters.
-
-
+Potential hubs for distribution centers or strong consumer demand clusters
+.
 Team Composition
 Distributors: 35.21%, notable individuals include Akeel Mcleod, Shakeel Durham, and Kien Mcgee.
 Online Team: 22.85%, led by Dominykas Bird, Lorenzo Donovan, and Tatiana Adamson.
@@ -86,10 +78,8 @@ Managerial statuses: Distributors (33.71%), Online Team (22.17%), Retailers (40.
 
 Product Sales Analysis
 Retailers and Distributors are key contributors to sales, especially in the food and drinks categories.
-
 Top-selling items: Oils and wheat flours; least popular: teas and tomato sauces.
 Analysis of total sales, quantity bins, unit price bins, and net weight bins.
-
 
 Salesperson Analysis
 Salesperson 215 leads in sales; 326 trails as the lowest performer.
@@ -105,7 +95,6 @@ Sales v/s Target Analysis
 Among salespersons, Salesperson 215.265 nearly meets the set target.
 Distributors excel, achieving up to 83% of their target sales.
 Annual performance analysis reveals a gradual improvement in target achievement over the years.
-
 Contributors
 maliha waseem
 Khadijah sultana
